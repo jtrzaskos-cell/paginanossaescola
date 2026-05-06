@@ -26,9 +26,9 @@ justify-content: flex-start;
 align-items: center;
 }
 .titulo_site{
-padding: 50px;
+padding: 100px;
 text-align: center;
-width: 50%;
+width: 100%;
 font: 100px;
 }
 .sociais{
