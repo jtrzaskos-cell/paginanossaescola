@@ -28,8 +28,8 @@ align-items: center;
 .titulo_site{
 padding: 50px;
 text-align: center;
-width: 100%;
-font: 30px;
+width: 50%;
+font: 100px;
 }
 .sociais{
 display: flex;
