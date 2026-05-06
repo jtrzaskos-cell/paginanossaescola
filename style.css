@@ -39,7 +39,7 @@ padding-right: 30px;
 }
 .banner1{
 display: flex;
-justify-content: center;
+justify-content: flex-end;
 }
 .estudante_titulo{
 padding: 50px;
