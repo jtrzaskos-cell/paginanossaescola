@@ -26,10 +26,10 @@ justify-content: flex-start;
 align-items: center;
 }
 .titulo_site{
-padding: 100px;
+padding: 50px;
 text-align: center;
-width: 100%;
-font: 100px;
+width: 50%;
+font: 30px;
 }
 .sociais{
 display: flex;
@@ -39,7 +39,7 @@ padding-right: 30px;
 }
 .banner1{
 display: flex;
-justify-content: flex-end;
+justify-content: center;
 }
 .estudante_titulo{
 padding: 50px;
@@ -79,7 +79,7 @@ text-align:center;
 display:block;
 }
 .escola-titulo{
-padding: 100px;
+padding: 50px;
 text-align: center;
 }
 .logo_rodape{
